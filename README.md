@@ -1,8 +1,6 @@
 # 8-Channel-Network-Relay-Controlled-by-Delphi
 
-This code is a sample project for 8 channel relay control in LAN by Sokcet. It's very easy to use. Only set the IP 
-
-and Port and click "Scan" button for Initialization.
+This code is a sample project for 8 channel relay control in LAN by Sokcet. It's very easy to use. 
 
 The software according to KinCony's KC868-H8/W or KC868-H32/W smart controller's protocol. The protocol is easy to use.When 
 
